@@ -1,3 +1,4 @@
+import java.util.Math; 
 
 class Tv{
     String color;
